@@ -9,5 +9,8 @@
     "dev": "tsx watch src/index.ts"
   },
   "author": "https://abhijayrajvansh.com",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "tsx": "^4.16.2"
+  }
 }
