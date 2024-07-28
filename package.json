@@ -1,0 +1,13 @@
+{
+  "name": "youtube-transcript-api",
+  "version": "1.0.0",
+  "description": "unofficial api for fetching youtube transcript",
+  "main": "index.ts",
+  "scripts": {
+    "start": "node dist/index.js",
+    "build": "tsc -p .",
+    "dev": "tsx watch src/index.ts"
+  },
+  "author": "https://abhijayrajvansh.com",
+  "license": "ISC"
+}
